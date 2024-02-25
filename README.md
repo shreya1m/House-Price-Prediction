@@ -41,7 +41,7 @@ The project is organized into the following directories:
 
 git clone https://github.com/shreya1m/House-Price-Prediction.git
 ### Navigate to the project directory:
-cd house-price-prediction
+cd House-Price-Prediction
 ### Install dependencies:
 - pip install -r requirements.txt
 - Execute python script.
